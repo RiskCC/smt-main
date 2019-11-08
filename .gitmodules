@@ -1,0 +1,3 @@
+[submodule "smt-sub"]
+	path = smt-sub
+	url = https://github.com/RiskCC/smt-sub.git
